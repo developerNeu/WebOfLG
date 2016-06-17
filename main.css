@@ -3,16 +3,16 @@ body {
 }
 #all {
     width: 1036px;
-    height:1100px;
+    height:1120px;
     margin: 0 auto;
-     background:white;
+    background:white;
 }
 
 
 
 
 #logo {
-    background-image: url("image/a2.jpg");
+    background-image: url("image/titleImg.jpg");
     height: 120px;
 }
 
